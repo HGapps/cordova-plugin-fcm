@@ -21,7 +21,7 @@
 	<key>PROJECT_ID</key>
 	<string>hgb-push-notifications-b3130</string>
 	<key>STORAGE_BUCKET</key>
-	<false></false>
+	<string>hgb-push-notifications-b3130.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
